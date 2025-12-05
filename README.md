@@ -8,7 +8,6 @@ An interactive Power BI dashboard analyzing **Superstore sales across categories
 A complete business performance dashboard providing **sales trends, customer behavior, and state-level analytics** with drill-through and advanced visualizations.
 
 ---
----
 
 ## 📁 Project Overview
 
@@ -32,7 +31,7 @@ This dashboard provides a comprehensive view of Superstore sales performance. It
 
 📸 *Screenshot included in repository: homepage.png*
 
----<img width="1286" height="711" alt="AI visual pnghomepage" src="https://github.com/user-attachments/assets/b8f45337-e1e7-4a40-9f59-3010cf25cae5" />
+<img width="1286" height="711" alt="AI visual pnghomepage" src="https://github.com/user-attachments/assets/b8f45337-e1e7-4a40-9f59-3010cf25cae5" />
 
 
 ### **2️⃣ Order Summary Dashboard**
@@ -43,8 +42,8 @@ This dashboard provides a comprehensive view of Superstore sales performance. It
 * Insightful charts for decision making
 
 📸 *Screenshot included in repository: summary.png*
-<img width="1287" height="707" alt="summary" src="https://github.com/user-attachments/assets/829eaeb3-a7af-4d5e-ab19-d2cfbdac9139" />
----
+
+<img width="1287" height="707" alt="summary" src="https://github.com/user-attachments/assets/1d62839b-be7d-4e3a-ba8d-d89f226a95b6" />
 
 ### **3️⃣ AI Visuals Dashboard**
 
@@ -56,7 +55,7 @@ This dashboard provides a comprehensive view of Superstore sales performance. It
 <img width="1222" height="675" alt="Ai" src="https://github.com/user-attachments/assets/b0d5bac9-2713-47be-bf8b-31c421fbc0f6" />
 --
 
-### **3️⃣ Customer Details Dashboard**
+### **4️⃣ Customer Details Dashboard**
 
 ## 🔍 Customer Details — Drill-Through Page
 
@@ -103,17 +102,17 @@ This page helps businesses:
 
 ## 📊 Key Features
 
-Year-wise Sales Trends: Interactive line and bar charts that visualize annual performance.
+* Year-wise Sales Trends: Interactive line and bar charts that visualize annual performance.
 
-Date-Level Insights: Drill into daily, monthly, and quarterly patterns.
+* Date-Level Insights: Drill into daily, monthly, and quarterly patterns.
 
-Geo-Spatial Sales Map: Map visual to analyze state-wise and country-wise sales distribution.
+* Geo-Spatial Sales Map: Map visual to analyze state-wise and country-wise sales distribution.
 
-Detailed Customer & Order View: A dedicated drill-through page showing customer-level insights.
+* Detailed Customer & Order View: A dedicated drill-through page showing customer-level insights.
 
-Bookmarks Navigation: Smooth switching between summary, details, and AI insights using custom bookmarks.
+* Bookmarks Navigation: Smooth switching between summary, details, and AI insights using custom bookmarks.
 
-Field Parameters: Dynamic switching between multiple measures and dimensions for flexible analysis.
+* Field Parameters: Dynamic switching between multiple measures and dimensions for flexible analysis.
 
 ✔️ Interactive slicers & drill-through pages
 
