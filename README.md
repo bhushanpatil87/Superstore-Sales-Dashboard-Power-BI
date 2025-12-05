@@ -75,6 +75,8 @@ This drill-through report includes:
 * **Ship Duration** — Shows delivery speed (calculated difference between order and ship date)
 * **Amount** — Displays the transaction value of every order
 * **Total Spend** — A summary row showing the customer’s total purchase amount
+📸 *Screenshot included in repository: Customer Detail.png*
+<img width="1210" height="677" alt="customer_details" src="https://github.com/user-attachments/assets/de7c1304-d113-4373-9a29-3f4a3c437a9b" />
 
 ### 🎯 Purpose of This Page
 
@@ -91,8 +93,6 @@ This page helps businesses:
 * Users reach this page by clicking **“Go to Details”** on the Home page
 * A **Back button** allows returning to the previous page seamlessly
 * Drill-through filters automatically ensure the page displays customer-specific data
-📸 *Screenshot included in repository: Customer Detail.png*
-<img width="1210" height="677" alt="customer_details" src="https://github.com/user-attachments/assets/de7c1304-d113-4373-9a29-3f4a3c437a9b" />
 
 
 ## 🧠 Key Insights
@@ -107,15 +107,10 @@ This page helps businesses:
 ## 📊 Key Features
 
 * Year-wise Sales Trends: Interactive line and bar charts that visualize annual performance.
-
 * Date-Level Insights: Drill into daily, monthly, and quarterly patterns.
-
 * Geo-Spatial Sales Map: Map visual to analyze state-wise and country-wise sales distribution.
-
 * Detailed Customer & Order View: A dedicated drill-through page showing customer-level insights.
-
 * Bookmarks Navigation: Smooth switching between summary, details, and AI insights using custom bookmarks.
-
 * Field Parameters: Dynamic switching between multiple measures and dimensions for flexible analysis.
 
 ✔️ Interactive slicers & drill-through pages
