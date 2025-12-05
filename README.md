@@ -75,6 +75,7 @@ This drill-through report includes:
 * **Ship Duration** — Shows delivery speed (calculated difference between order and ship date)
 * **Amount** — Displays the transaction value of every order
 * **Total Spend** — A summary row showing the customer’s total purchase amount
+
 📸 *Screenshot included in repository: Customer Detail.png*
 <img width="1210" height="677" alt="customer_details" src="https://github.com/user-attachments/assets/de7c1304-d113-4373-9a29-3f4a3c437a9b" />
 
