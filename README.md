@@ -43,7 +43,9 @@ This dashboard provides a comprehensive view of Superstore sales performance. It
 
 📸 *Screenshot included in repository: summary.png*
 
-<img width="1287" height="707" alt="summary" src="https://github.com/user-attachments/assets/1d62839b-be7d-4e3a-ba8d-d89f226a95b6" />
+<img width="1212" height="673" alt="summary" src="https://github.com/user-attachments/assets/06903a04-e0bf-4967-861f-67df9882cd9b" />
+
+
 
 ### **3️⃣ AI Visuals Dashboard**
 
@@ -52,7 +54,9 @@ This dashboard provides a comprehensive view of Superstore sales performance. It
 * Helps discover patterns not easily visible through normal visuals
 
 📸 *Screenshot included in repository: AI visual.png*
-<img width="1222" height="675" alt="Ai" src="https://github.com/user-attachments/assets/b0d5bac9-2713-47be-bf8b-31c421fbc0f6" />
+
+<img width="1232" height="687" alt="ai_visual" src="https://github.com/user-attachments/assets/2722743a-f894-4d37-ae9f-c0f6667950e4" />
+
 --
 
 ### **4️⃣ Customer Details Dashboard**
