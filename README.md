@@ -95,7 +95,6 @@ This page helps businesses:
 * A **Back button** allows returning to the previous page seamlessly
 * Drill-through filters automatically ensure the page displays customer-specific data
 
-
 ## 🧠 Key Insights
 
 * Certain U.S. states significantly influence the likelihood of choosing **First Class** ship mode
@@ -137,7 +136,7 @@ This page helps businesses:
 
 ## 📦 Dataset Used
 
-Dataset: **Superstore Sales Dataset** (a widely-used sample dataset for BI and analytics projects)
+Dataset: **Superstore Sales Dataset** (a widely-used sample dataset for BI and analytics projects) https://github.com/bhushanpatil87/Superstore-Sales-Dashboard-Power-BI/blob/main/train%20(1).csv
 
 Includes fields such as:
 
