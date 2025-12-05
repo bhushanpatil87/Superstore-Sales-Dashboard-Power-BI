@@ -1,6 +1,6 @@
 
 # 📊 Superstore-Sales-Dashboard-Power-BI
-
+CHECK LIVE  - https://app.powerbi.com/reportEmbed?reportId=a5024940-263f-4eeb-9bc6-28e3277a0077&autoAuth=true&ctid=e7b783de-8605-4029-a029-ca206dbd5d43
 ### 🚀 An Interactive Power BI Data Storytelling Project
 
 An interactive Power BI dashboard analyzing **Superstore sales across categories, segments, regions, and ship modes**, enhanced with **AI visuals** for deeper insights.
